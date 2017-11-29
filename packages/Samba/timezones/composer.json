@@ -1,0 +1,14 @@
+{
+    "name": "Samba/timezones",
+    "description": "package de prueba para introducirme en packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samba Gueye",
+            "email": "gueye.samba@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
